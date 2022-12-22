@@ -18,10 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/admob-plus/admob-plus.git"
+    "url": "git+https://github.com/gemmomoh/admob-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/admob-plus/admob-plus/issues"
+    "url": "https://github.com/gemmomoh/admob-plus/issues"
   },
   "keywords": [
     "capacitor",
